@@ -1,0 +1,32 @@
+٠٠<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>Ultra System Bot</title>
+</head>
+
+<body style="font-family: Arial; text-align: center; background:#0f0f0f; color:white;">
+
+  <h1>🤖 Ultra System Bot</h1>
+
+  <!-- صورة البوت -->
+  <img src="logo.png" width="150" style="border-radius: 50%;">
+
+  <p>أفضل بوت ديسكورد لإدارة السيرفرات</p>
+
+  <!-- زر دعوة البوت -->
+  <a href="PUT_INVITE_LINK_HERE"
+     style="display:inline-block; padding:10px 20px; background:#5865F2; color:white; text-decoration:none; border-radius:8px;">
+     Invite Bot
+  </a>
+
+  <hr style="margin:30px;">
+
+  <h2>📌 Commands</h2>
+
+  <p>!help - عرض الأوامر</p>
+  <p>!kick - طرد عضو</p>
+  <p>!ban - حضر عضو</p>
+
+</body>
+</html>
